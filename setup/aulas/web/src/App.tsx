@@ -2,6 +2,7 @@
 import { Cabecalho } from "./components/Cabecalho";
 import { SummaryTable } from "./components/SummaryTable";
 import "./index.css";
+import './lib/dayJs'
 
 
 export function App() {
